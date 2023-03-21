@@ -1,5 +1,6 @@
 # lovely served by https://app-adstxt.dev/ -- free app-ads.txt hosting
 #Facebook Ownership Confirmation
+
 facebook.com, 776179123928561, RESELLER, с3e20eee3f780d68
 
 #Facebook Ownership Confirmation
